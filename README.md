@@ -1,2 +1,2 @@
 # aoc-2021
-Solutions for the 2021 [advent of code] (https://adventofcode.com) 
+Solutions for the 2021 https://adventofcode.com 
